@@ -6,7 +6,7 @@
 		"plugin-options": "Opcije dodatka",
 		"folder-path-example-placeholder": "Primjer: folder1/folder 2",
 		"file-path-example-placeholder": "Primjer: folder/bilješka",
-		"msg-restart-required": "Mijenjanje ove opcije zahtjeva ponovo pokretanje, kako bi bila primijenjena.",
+		"msg-restart-required": "Promjena ove opcije zahtjeva ponovo pokretanje, kako bi bila primijenjena.",
 		"editor": {
 			"name": "Uređivač",
 			"section-behavior": "Ponašanje",
@@ -648,7 +648,7 @@
 		},
 		"start-up": {
 			"loading-obsidian": "Učitavam Obsidian...",
-			"obsidian-load-error": "An error occurred while loading Obsidian.",
+			"obsidian-load-error": "Došlo je do greške prilikom učitavanja Obsidiana.",
 			"button-reload-app": "Ponovo učitaj aplikaciju",
 			"button-reload-app-in-safe-mode": "Ponovo učitaj aplikaciju u sigurnom modu",
 			"button-open-another-vault": "Otvori drugi trezor",
@@ -656,17 +656,17 @@
 			"loading-plugins": "Učitavanje dodataka...",
 			"loading-vault": "Učitavanje trezora...",
 			"msg-failed-to-load-vault": "Učitavanje trezora nije uspjelo: ",
-			"loading-cache": "Loading cache...",
+			"loading-cache": "Učitavam predmemorije...",
 			"loading-workspace": "Učitavam radnu površinu..."
 		},
 		"mobile": {
 			"action-import": "Uvezi u trezor",
-			"action-choose-file-to-insert": "Odaberi fajl za unos",
+			"action-choose-file-to-insert": "Odaberi datoteku za unos",
 			"action-insert-text-into-file": "Umetni tekst u {{filename}}",
-			"action-insert-link-into-file": "Umetni link u {{filename}}",
+			"action-insert-link-into-file": "Umetni poveznicu u {{filename}}",
 			"msg-importing": "Uvoženje...",
 			"msg-import-success": "Uvoz je uspio",
-			"msg-failed-to-import-file": "Failed to import file {{filename}}",
+			"msg-failed-to-import-file": "Uvoz nije uspio {{filename}}",
 			"msg-back-again-to-exit": "Ponovo pritisni 'natrag' za izlazak."
 		},
 		"help-screen": {
