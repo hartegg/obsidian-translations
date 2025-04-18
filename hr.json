@@ -172,7 +172,7 @@
 			"button-reload-snippets": "Ponovno učitaj isječke",
 			"button-open-snippets-folder": "Otvori mapu isječaka",
 			"msg-reloaded-snippets": "CSS isječci ponovno učitani.",
-			"option-toggle-snippet-description": "Primijeni CSS isječak na \"{{path}}\"."
+			"option-toggle-snippet-description": "Primijeni CSS isječak na \"{{path}}\".",
 			"label-installed-themes": "Instalirane teme",
 			"label-screenshot-unavailable": "Snimka zaslona nije dostupna",
 			"label-default-theme": "Zadano",
@@ -1372,7 +1372,7 @@
 			"option-hide-title": "Sakrij ime stranice",
 			"option-hide-title-description": "Sakrij naslov stranice. Korisno ako koristiš vlastite naslove na početku svake stranice.",
 			"option-readable-line-length": "Čitljiva duljina reda",
-			"option-readable-line-length-description": "Ograničava maksimalnu duljinu redova. Prikazuje manje sadržaja na ekranu, ali čini dugačke odlomke lakšima za čitanje.",
+			"option-readable-line-length-description": "Ograničava maksimalnu duljinu redova. Prikazuje manje sadržaja na ekranu, ali čini dugačke odlomke lakšima za čitanje."
 		},
 		"workspaces": {
 			"name": "Radni prostori",
