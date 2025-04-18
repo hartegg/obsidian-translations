@@ -128,7 +128,7 @@
 			"option-base-theme": "Osnovna tema",
 			"option-base-theme-description": "Izaberi zadanu shemu boja Obsidiana.",
 			"option-accent-color": "Naglašena boja",
-			"option-accent-color-description": "Izaberi naglašenu boju koja će se koristiti kroz cijelu aplikaciju."
+			"option-accent-color-description": "Izaberi naglašenu boju koja će se koristiti kroz cijelu aplikaciju.",
 			"dark-theme": "Tamna",
 			"light-theme": "Svjetla",
 			"system-theme": "Adaptiraj prema sustavu",
@@ -146,7 +146,7 @@
 			"label-multiple-fonts-currently-in-effect": " Na sustavu su aktivni sljedeći fontovi:",
 			"option-font-placeholder": "Unesi ime fonta...",
 			"label-no-custom-font-set": "Trenutno nije primijenjen nijedan prilagođeni font. Dodajte jedan u nastavku.",
-			"label-font-applied": "Prvi font s ovog popisa koji je dostupan na vašem sustavu bit će primijenjen."
+			"label-font-applied": "Prvi font s ovog popisa koji je dostupan na vašem sustavu bit će primijenjen.",
 			"msg-font-not-found": "Ovaj font nije detektiran na tvom sustavu.",
 			"msg-font-found": "Ovaj font nije detektiran na tvom sustavu.",
 			"label-font-name": "Ime fonta",
@@ -156,13 +156,13 @@
 			"option-font-size": "Veličina fonta",
 			"option-font-size-description": "Veličina fonta u pikselima koja utječe na uređivač i pregled.",
 			"option-font-size-action": "Brza prilagodba veličine fonta",
-			"option-font-size-action-description": "Prilagodite veličinu fonta pomoću Ctrl + Scroll ili geste zumiranja na trackpad-u."
+			"option-font-size-action-description": "Prilagodite veličinu fonta pomoću Ctrl + Scroll ili geste zumiranja na trackpad-u.",
 			"option-themes": "Teme",
 			"option-manage-themes-description": "Upravljaj instaliranim temama i pregledavaj teme zajednice.",
 			"option-theme-button-manage": "Upravljaj",
 			"option-choice-none": "Nijedan",
 			"option-native-menus": "Izvorni izbornici",
-			"option-native-menus-desc": "Izbornici u aplikaciji će odgovarati operacijskom sustavu. Neće biti pod utjecajem vaše teme."
+			"option-native-menus-desc": "Izbornici u aplikaciji će odgovarati operacijskom sustavu. Neće biti pod utjecajem vaše teme.",
 			"button-reload-themes": "Ponovo učitaj teme",
 			"msg-reloaded-themes": "Ponovo učitaj prilagođene CSS teme.",
 			"button-open-themes-folder": "Otvori folder s temama",
@@ -180,14 +180,14 @@
 			"button-update": "Ažuriraj",
 			"label-currently-selected": "Odabrani",
 			"option-frame-style": "Stil okvira prozora",
-			"option-frame-description": "Određuje stilizaciju naslovne trake Obsidian prozora. Za primjenu je potreban potpuni ponovni pokretanje."
+			"option-frame-description": "Određuje stilizaciju naslovne trake Obsidian prozora. Za primjenu je potreban potpuni ponovni pokretanje.",
 			"option-frame-hidden": "Skriveno (zadano)",
 			"option-frame-obsidian": "Obsidian okvir",
 			"option-frame-native": "Izvorni okvir",
 			"option-configure-ribbon": "Izbornik trake",
 			"option-configure-ribbon-desc": "Konfigurirajte koji će se naredbe pojaviti u izborniku trake u navigacijskoj traci.",
 			"option-mobile-quick-ribbon-item": "Stavka trake za brzi pristup",
-			"option-mobile-quick-ribbon-item-desc": "Dodirivanje stavke trake u navigacijskom izborniku aktivirat će ovu stavku trake. Dodirivanje i držanje i dalje će prikazivati izbornik."
+			"option-mobile-quick-ribbon-item-desc": "Dodirivanje stavke trake u navigacijskom izborniku aktivirat će ovu stavku trake. Dodirivanje i držanje i dalje će prikazivati izbornik.",
 			"button-configure": "Konfiguriraj",
 			"label-additional-ribbon-items": "Ostale stavke trake",
 			"label-modal-configuration": "Konfiguracija trake",
@@ -195,7 +195,7 @@
 			"option-show-view-header": "Prikaži naslovnu traku kartice",
 			"option-show-view-header-desc": "Prikazuje zaglavlje na vrhu svake kartice.",
 			"msg-updates-found": "Pronađena je {{count}} tema za ažuriranje.",
-			"msg-updates-found_plural": "Pronađeno je {{count}} tema za ažuriranje."
+			"msg-updates-found_plural": "Pronađeno je {{count}} tema za ažuriranje.",
 			"button-check-for-updates": "Provjeri ažuriranja",
 			"button-view-updates": "Prikaži obnove",
 			"button-update-all-themes": "Ažuriraj sve",
@@ -262,7 +262,7 @@
 			"label-license": "Licenca",
 			"label-your-commercial-license-key": "Vaš komercijalni licencni ključ je \"{{key}}\".",
 			"label-commercial-license-info": "Registrirano na \"{{company}}\" za {{seats}} korisnika. Vrijedi do {{expiry}}.",
-			"label-validating-commercial-license": "Provjeravanje valjanosti..."
+			"label-validating-commercial-license": "Provjeravanje valjanosti...",
 			"label-invalid-commercial-license": "Licenca nije valjana: ",
 			"button-remove-commercial-license": "Makni",
 			"option-catalyst": "Catalyst licenca",
@@ -384,7 +384,7 @@
 			"label-donate-modal-text3": "Hvala na velikodušnoj podršci!",
 			"label-support-this-plugin": "Podrži ovaj dodatak:",
 			"label-search-summary": "Prikazujem {{pluginCount}}:",
-			"label-by-popularity": "Najviše preuzimano"
+			"label-by-popularity": "Najviše preuzimano",
 			"label-by-released": "Nedavno izdano",
 			"label-by-updated": "Nedavno obnovljeno",
 			"label-alphabetical": "Abecedno",
@@ -518,7 +518,7 @@
 		"button-add": "Dodaj",
 		"button-manage": "Upravljaj",
 		"label-new-tab": "Nova kartica",
-		"msg-tab-busy": "Ova kartica je trenutno zauzeta, pokušaj kasnije"
+		"msg-tab-busy": "Ova kartica je trenutno zauzeta, pokušaj kasnije",
 		"empty-state": {
 			"no-file-open": "Nijedana datoteka nije otvorena",
 			"create-new-file": "Stvori novu datoteku",
@@ -548,7 +548,7 @@
 			"unlink-tab": "Odveži karticu",
 			"link-tab": "Poveži s karticom...",
 			"toggle-source-mode": "Način izvornog kôda",
-			"toggle-reading-view": "Način čitanja"
+			"toggle-reading-view": "Način čitanja",
 			"delete-file": "Obriši datoteku",
 			"create-file": "Stvori ovu datoteku",
 			"open-link": "Otvori poveznicu",
@@ -560,10 +560,10 @@
 			"cut": "Izreži",
 			"paste": "Zalijepi",
 			"paste-as-plain-text": "Zalijepi kao običan tekst",
-			"lookup-selection": "Potraži “{{selection}}”"
+			"lookup-selection": "Potraži “{{selection}}”",
 			"select-all": "Odaberi sve",
 			"rename-heading": "Preimenuj ovaj naslov...",
-			"rename-blockid": "Preimenuj ovaj ID bloka..."
+			"rename-blockid": "Preimenuj ovaj ID bloka...",
 			"open-in-new-window": "Otvori u novom prozoru",
 			"move-to-new-window": "Makni u novi prozor",
 			"open-in-browser": "Otvori u web pregledniku",
@@ -809,16 +809,16 @@
 		"export-pdf": "Izvezi PDF",
 		"toggle-bullet-list": "Lista s točkama",
 		"toggle-numbered-list": "Numerirani lista",
-		"toggle-checklist": "Popis zadataka"
+		"toggle-checklist": "Popis zadataka",
 		"toggle-bold": "Podebljaj",
 		"toggle-code": "Kôd",
 		"toggle-comment": "Komentar",
 		"toggle-italics": "Kurziv",
 		"toggle-highlight": "Označi",
-		"toggle-strikethrough": "Precrtaj"
+		"toggle-strikethrough": "Precrtaj",
 		"toggle-comments": "Komentar",
 		"fold-all": "Sklopi sve",
-		"unfold-all": "Otvori sve"
+		"unfold-all": "Otvori sve",
 		"fold-more": "Sklopi Više",
 		"fold-less": "Sklopi Manje",
 		"source-mode": "Izvorni način",
@@ -1058,7 +1058,7 @@
 			"label-sort-by-name-z-to-a": "Naziv oznake (Z do A)",
 			"label-sort-by-frequency-high-to-low": "Frekvencija (visoka do niska)",
 			"label-sort-by-frequency-low-to-high": "Frekvencija (niska do visoka)",
-			"action-show-nested-tags": "Prikazivanje ugniježđenih oznaka"
+			"action-show-nested-tags": "Prikazivanje ugniježđenih oznaka",
 			"action-collapse-all": "Sažmi sve",
 			"action-expand-all": "Proširi sve"
 		},
@@ -1181,7 +1181,7 @@
 		},
 		"daily-notes": {
 			"name": "Dnevne bilješke",
-			"desc": "Otvori današnju dnevnu bilješku ili je kreiraj ako ne postoji."
+			"desc": "Otvori današnju dnevnu bilješku ili je kreiraj ako ne postoji.",
 			"short-name": "Danas",
 			"action-open": "Otvori današnju bilješku",
 			"action-open-previous": "Otvori prethodnu dnevnu bilješku",
